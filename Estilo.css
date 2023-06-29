@@ -1,10 +1,7 @@
-html {
-  width: 100%;
-  height: 100%;
-}
+
 body {
   color: white;
-  background: linear-gradient(68.14deg, #0000CD 12.40%, #1E90FF 92.97%);
+  background-image: url('https://guinog.sirv.com/Fundo.jpeg');
   font-family: Arial;
 }
 ul {
@@ -12,13 +9,10 @@ ul {
   justify-content: space-between;
   list-style-type: none;
   padding: 5px 16px;
-  
 }
 a {
   color: white;
   text-decoration: none;
-  width: 90px;
-  height: 25px;
   font-size: 14px;
 }
 img {
@@ -31,8 +25,14 @@ img {
   text-align: center;
 }
 .sobreobot {
-  padding: 0px 10px;
-  margin-bottom: 25px;
+  padding: 10px 10px;
+  margin-bottom: 40px;
+  text-align: center;
+  font-size: 20px;
+}
+.sobremimtitulo {
+  text-align: center;
+  font-family: Georgia;
 }
 h1 {
   color: yellow;
@@ -70,9 +70,11 @@ nav a:hover {
   text-align: center;
 }
 .footerdevic {
-  padding: 30px;
   color: black;
+  align-items: center;
   text-align: center;
+  background-color: #F0F8FF;
+  border-radius: 20px;
 }
 .regrasmural {
   color: yellow;
@@ -98,5 +100,4 @@ nav a:hover {
 }
 .regrassub {
   text-align: center;
-  
 }
