@@ -59,7 +59,7 @@ nav a:hover {
   text-align: center;
 }
 .preto {
-  color: black;
+  color: yellow;
   font-family: Arial;
   text-align: center;
 }
@@ -84,19 +84,19 @@ nav a:hover {
 }
 .regras {
   text-align: center;
-  color: black;
-}
-.regras {
-  text-align: center;
-  color: black;
+  color: yellow;
 }
 .paragraforegras1 {
   color: #FF4500;
   padding: 5px 16px;
+  text-align: left;
+  font-family: Georgia;
 }
 .paragraforegras2 {
   color: #00FF7F;
   padding: 5px 16px;
+  text-align: left;
+  font-family: Georgia;
 }
 .regrassub {
   text-align: center;
